@@ -25,6 +25,3 @@ that the second method gives a way of combining evidence based
 on their reliability degree and provides better uncertainty handling
 with respect to every patient individually. However, the major pitfall of this method lies in its computational complexity when merging pieces of evidence (in exponential time). 
 
-This way, physicians can
-better take advantage from ML models predictions for patients diagnosis
-and treatment decision making.
